@@ -1,7 +1,7 @@
 # US Mortgage Approvals Case Study
 <div align="center">
   <a href="https://d224eigjcmsomk.cloudfront.net/Pictures/1024x536/7/0/0/1969700_shutterstock_1397767763_281383.jpg">
-    <img src="https://d224eigjcmsomk.cloudfront.net/Pictures/1024x536/7/0/0/1969700_shutterstock_1397767763_281383.jpg" alt="" width="300" height="300">
+    <img src="https://d224eigjcmsomk.cloudfront.net/Pictures/1024x536/7/0/0/1969700_shutterstock_1397767763_281383.jpg" alt="" width="500" height="250">
   </a>
 </div>
 This repository contains a detailed report and the associated code for a case study on mortgage approvals in the United States, focusing on a dataset of mortgage applications from a (unknown) 1990 U.S. city. The analysis explores factors affecting the outcome of mortgage applications, including financial ratios, demographic details, and the 1989 state unemployment rate in the applicant's industry.
